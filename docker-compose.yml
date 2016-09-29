@@ -1,5 +1,5 @@
-serviceA-v1:
-    image: 'registry.cn-hangzhou.aliyuncs.com/jingshanlb/bluegreen-service-a:latest'
+serviceA-6539182:
+    image: 'registry.cn-hangzhou.aliyuncs.com/jingshanlb/bluegreen-service-a:6539182'
     labels:
         aliyun.scale: 3
         aliyun.routing.port_5000: servicea.local
